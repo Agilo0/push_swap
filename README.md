@@ -2,7 +2,7 @@
 
 This program sorts data in a stack using a limited set of instructions, aiming to achieve the lowest possible number of actions.
 
-For deeper explanation, find the subject int the project.
+For deeper explanation, find the subject in the project.
 
 To compile it:
 
